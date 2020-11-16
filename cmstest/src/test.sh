@@ -1,0 +1,1 @@
+sudo echo "hello uos" >> /opt/testscript.txt
